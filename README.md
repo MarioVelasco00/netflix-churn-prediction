@@ -39,7 +39,7 @@ Para ejecutar y probar la aplicación interactiva, puedes elegir cualquiera de l
 
 ### Opción 1: Ejecución Directa en Google Colab (Recomendada - Sin Descargas)
 1. Haz clic en el siguiente enlace para abrir la libreta interactiva directamente en la nube:  
-   **[Abrir proyecto en Google Colab]([[TU_ENLACE_DE_COMPARTIR_DE_COLAB](https://colab.research.google.com/drive/1b2HbNq-wsXAfwmAnGgXuzeAwZbF1-xkQ?usp=sharing)])**
+   **[Abrir proyecto en Google Colab](https://colab.research.google.com/drive/1b2HbNq-wsXAfwmAnGgXuzeAwZbF1-xkQ?usp=sharing)**
 2. Una vez abierto en Colab, ejecuta cada celda de forma secuencial de arriba hacia abajo haciendo clic en el botón de "Play" de cada celda.
 3. Modifica los parámetros en la última celda para interactuar con el sistema de inferencia.
 
